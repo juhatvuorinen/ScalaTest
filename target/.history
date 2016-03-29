@@ -1,0 +1,8 @@
+project SampleProject
+run
+project SampleProject
+clean
+compile
+project SampleProject
+updateClassifiers
+project SampleProject
